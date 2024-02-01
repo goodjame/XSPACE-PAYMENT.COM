@@ -1,0 +1,32 @@
+body{
+  background-color: whitesmoke;
+}
+
+div{
+  border:5px solid;
+  border-color:black;
+  background-color: darkblue;
+  width:800px;
+}
+
+h3{
+  color:white;
+}
+
+button{
+  border:5px solid;
+  border-color :black;
+  background-color: black;
+  width:500px;
+  font-size:40px;
+  height: 300px;
+  color:white;
+}
+
+th{
+  font-size:40px;
+}
+
+td{
+  font-size:40px;
+}
